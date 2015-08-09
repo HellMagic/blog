@@ -1,2 +1,3 @@
-hello
-go world
+function hello() {
+  console.log("HelloWorld");
+}
